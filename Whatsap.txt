@@ -16,26 +16,13 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status feature
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 8. Adding status so that user can play train games
 
 9. Adding group feature to include 200 users.
 
 10. Adding linked feature to add more than 10 devices
+
+11.Adding Group status feature
 
 
 
